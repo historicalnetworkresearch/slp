@@ -27,6 +27,6 @@ More informations soon.
 
 ## Credits
 
-This website is hosted on [Github](https://github.com/historicalnetworkresearch/slp) and archived on [Zenodo](https://doi.org/). 
+This website is hosted on [Github](https://github.com/historicalnetworkresearch/slp). 
 
 Cover image: JaviQuistiano, Wikimedia Commmons
