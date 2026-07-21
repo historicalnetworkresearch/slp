@@ -14,6 +14,8 @@ cover: false
 
 ## Local organizers
 
+<img src="/img/cintillo_logos.svg" alt="UASLP, FHAB and IF LEDS" style="width:100%; max-width:600px; height:auto; filter:brightness(0)">
+
 More informations soon.
 
 ## Research Community
