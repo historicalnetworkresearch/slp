@@ -14,6 +14,33 @@ cover: false
 
 ## Local organizers
 
+**José Antonio Motilla Chávez** (Lead organizer)  
+Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Edgardo Gálan Vásquez**  
+Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Autónoma de México
+
+**Edgardo Ugalde Saldaña**  
+Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Rodrigo Dorantes Gilardi**  
+Network Science Institute, Northeastern University
+
+**Yolanda Esperanza Camacho Zapata**  
+Facultad de Derecho, Universidad Autónoma de San Luis Potosí-AHESLP
+
+**María Marcela Lomelí Jasso**  
+Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Diego Gerardo Pérez Martínez**  
+Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Diego Espitia**  
+Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Hector Gutierrez Magaña**  
+CIESAS-GOLFO
+
 <img src="{{ '/img/cintillo_logos.png' | relative_url }}" alt="UASLP, FHAB and IF LEDS" style="width:100%; max-width:600px; height:auto; filter:brightness(0)">
 
 More informations soon.
