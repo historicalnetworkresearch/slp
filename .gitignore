@@ -53,3 +53,8 @@ _zip
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
 .atl/
+
+.vscode/
+
+# Source docs (content drafts, not published as-is)
+docs/
