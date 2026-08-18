@@ -7,10 +7,14 @@ hide_image: false
 cover: false
 ---
 
-# Call for papers
+<div class="cfp-lang-switch" role="group" aria-label="Language / Idioma">
+  <button type="button" class="cfp-lang-btn is-active" data-lang="en" onclick="switchCfpLang('en', this)">English</button>
+  <button type="button" class="cfp-lang-btn" data-lang="es" onclick="switchCfpLang('es', this)">Español</button>
+</div>
 
-* Table of contents
-{:toc}
+<div class="cfp-content" data-lang="en" lang="en" markdown="1">
+
+# Call for papers
 
 ## Historical Network Research
 
@@ -124,3 +128,150 @@ Centro de Investigaciones y Estudios Superiores en Antropología Social — CIES
 
 Rodrigo Dorantes-Gilardi  
 Network Science Institute, Northeastern University
+
+</div>
+
+<div class="cfp-content" data-lang="es" lang="es" markdown="1" style="display:none">
+
+# Convocatoria de ponencias
+
+## Investigación de Redes Históricas
+
+Los fenómenos estudiados por las ciencias históricas son, por su propia naturaleza, situaciones complejas: implican, por ejemplo, relaciones personales entrelazadas, dinámicas colectivas que estructuran el espacio social y cultural, o sistemas políticos y económicos que operan a escalas local y global. La metáfora de la red se emplea con frecuencia para describir este entramado. En las últimas décadas, los historiadores han comenzado a reflexionar sobre las formas de formalizar este enfoque, apropiándose de los conceptos y las herramientas de la teoría de grafos para ofrecer una nueva perspectiva sobre los archivos. La aplicación del análisis formal de redes a la historia es hoy un fértil campo de experimentación e investigación.
+
+En 2009, tras un taller dedicado a la aplicación del análisis de redes sociales a la historia, se creó una pequeña comunidad de práctica: la comunidad de Historical Network Research. Esta evolucionó hacia una serie de talleres y, posteriormente, hacia una conferencia internacional, de la cual HNR2027 es la 12.ª edición hasta la fecha, tras las conferencias celebradas en Hamburgo, Gante, Lisboa, Turku, Brno, Luxemburgo, Maguncia, Lausana, Río de Janeiro y Turín. En 2013 se creó la HNR Collective Bibliography, una herramienta central para compartir la producción científica de la comunidad. En 2017 se publicó el primer número de JHNR, el Journal of Historical Network Research, que permite a los investigadores compartir sus trabajos en Acceso Abierto completo.
+
+Por primera vez, HNR llega a México. HNR2027 se celebrará en San Luis Potosí y será coorganizada por la Universidad Autónoma de San Luis Potosí (UASLP), a través de su Instituto de Física, la Facultad del Hábitat y la Secretaría de Investigación y Posgrado, el Archivo Histórico del Estado de San Luis Potosí (AHESLP) y el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS-UNAM).
+
+La conferencia ofrece la oportunidad no solo de reunir a la comunidad internacional de HNR, sino también de fortalecer los vínculos entre investigadores de toda América Latina que abordan los problemas históricos de manera relacional, ya sea mediante el análisis formal de redes, la prosopografía, las bases de datos relacionales, los SIG históricos, la historia cuantitativa, la historia digital u otros métodos interesados en las relaciones entre personas, instituciones, lugares, textos, objetos e ideas.
+
+## Eje temático 2027: Emergencia
+
+La edición 2027 de la conferencia se centrará en la **Emergencia**: cómo las estructuras, los patrones y las formas de organización históricas surgen, se transforman, persisten y desaparecen a través de relaciones que operan a diferentes escalas.
+
+La emergencia es un concepto fundamental en la ciencia de la complejidad y de las redes, que se refiere a propiedades y patrones que surgen de las interacciones entre múltiples componentes y que no pueden comprenderse únicamente examinando dichos componentes de forma aislada. La investigación histórica se ha enfrentado desde hace tiempo a preguntas relacionadas: los mercados, las comunidades, las instituciones, las tradiciones intelectuales y los movimientos políticos se desarrollan a través de interacciones entre individuos, grupos, condiciones materiales, instituciones establecidas y estructuras de poder más amplias.
+
+Sin embargo, los procesos históricos no pueden reducirse simplemente a una emergencia de abajo hacia arriba. Las instituciones pueden imponerse deliberadamente, las jerarquías y las desigualdades restringen la interacción, las estructuras heredadas condicionan desarrollos posteriores y la contingencia puede reorientar los procesos históricos. Los enfoques de redes ofrecen formas de investigar estas tensiones: cómo las relaciones locales llegan a asociarse con estructuras más amplias, cómo esas estructuras restringen posteriormente la interacción y cómo los patrones relacionales persisten o cambian a lo largo del tiempo. La investigación histórica, a su vez, coloca en primer plano las cuestiones de temporalidad, agencia, incertidumbre, poder, contingencia y evidencia incompleta.
+
+Para HNR2027, **la emergencia es, por tanto, una pregunta que investigar y no una explicación que dar por supuesta**.
+
+Nos interesan especialmente las contribuciones que:
+
+* investiguen cómo las estructuras históricas surgen, persisten, se transforman o desaparecen a través de relaciones entre personas, instituciones, lugares, textos, objetos o ideas;
+* examinen la interacción entre los procesos emergentes y las instituciones, la jerarquía, la coerción, la desigualdad o la autoridad política;
+* tiendan puentes entre la investigación de redes históricas y la ciencia de la complejidad, la ciencia de redes, el análisis de redes sociales u otros enfoques relacionales afines;
+* aborden evidencia histórica incompleta, fragmentaria, sesgada o incierta y sus implicaciones para la identificación de la estructura de red;
+* examinen las posibilidades y los límites explicativos de la emergencia en la investigación histórica;
+* desarrollen enfoques de redes para corpus, regiones, poblaciones o tradiciones históricas subrepresentadas en la literatura internacional.
+
+HNR2027 alienta especialmente la participación de investigadores que trabajan en América Latina y de académicos que estudian procesos históricos latinoamericanos, sin dejar de estar plenamente abierta a contribuciones relativas a cualquier área geográfica, período histórico o tradición metodológica pertinente.
+
+El eje temático anual es **una lente, no un filtro de selección**.
+
+## Temas de estudio
+
+HNR2027 acoge contribuciones que aborden cualquier período histórico y área geográfica. Los autores pueden ser historiadores, lingüistas, bibliotecarios, arqueólogos, historiadores del arte, informáticos, matemáticos, físicos, científicos sociales, así como especialistas de otras disciplinas que trabajen con datos históricos. Los temas pueden incluir, entre otros:
+
+* Aplicaciones del análisis de redes a la historia, la historia del arte, la historia antigua, la historia intelectual, la historia económica, la historia social, la historia de los medios, la historia política, la historia de las religiones, la biografía, la historia pública, la microhistoria, la historia poscolonial, la historia global, la arqueología, la historia literaria y la historia cultural.
+* Análisis de tipos específicos de redes, como redes geoespaciales, redes temporales y dinámicas, redes de dos modos (bipartitas), redes multicapa y redes multiplex.
+* Contribuciones metodológicas sobre la aplicabilidad del análisis de redes a la historia, incluyendo, por ejemplo, el modelado, las ontologías, los datos enlazados, el uso de métricas de grafos y el análisis visual de redes.
+* Contribuciones pedagógicas, que presenten escenarios de enseñanza, cuestiones de alfabetización, presentaciones de software o funcionalidades, e interfaces.
+
+## Formatos
+
+**Ponencias largas (Long Papers)** — Presentación de 20 minutos seguida de 10 minutos de discusión, destinada a presentar investigaciones completas. Se requiere un resumen de 300 palabras (sin incluir la bibliografía), con al menos 3 citas. Debe describir el tema y las preguntas de investigación del trabajo, una visión general de los datos utilizados y los métodos empleados, y una discusión de los resultados y sus implicaciones más amplias para el análisis de redes en la historia.
+
+**Ponencias cortas (Short Papers)** — Presentación de 10 minutos seguida de 5 minutos de discusión, destinada a presentar investigaciones en curso. Se requiere un resumen de 300 palabras (sin incluir la bibliografía), con al menos 3 citas.
+
+**Carteles (Posters)** — Los carteles se conciben como un espacio para la exploración, el intercambio y la conversación, más que como ponencias abreviadas.
+
+Pueden presentar:
+
+* fuentes históricas, colecciones de archivo o conjuntos de datos con potencial para el análisis relacional;
+* representaciones o visualizaciones de redes de carácter exploratorio;
+* problemas metodológicos o conceptuales para los que resulte útil la discusión con la comunidad de HNR;
+* herramientas digitales, bases de datos, interfaces o flujos de trabajo;
+* preguntas históricas para las que un investigador esté considerando la posible contribución de los enfoques de redes;
+* proyectos emergentes que busquen retroalimentación metodológica, perspectivas comparativas o posibles colaboraciones.
+
+Los investigadores **no** necesitan haber completado un análisis formal de redes para presentar un cartel. Damos una bienvenida especial a los carteles de académicos que están comenzando a explorar cómo los enfoques relacionales o de redes podrían contribuir a un problema de investigación histórica existente.
+
+Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el material que se presenta, su posible conexión con la investigación de redes y el tipo de discusión, retroalimentación o colaboración que el autor espera desarrollar durante la sesión de carteles.
+
+## Normas de envío
+
+- Los resúmenes deben enviarse a través de la plataforma de gestión de la conferencia (enlace por confirmar).
+- Los resúmenes deben redactarse en **inglés**.
+- Las citas deben seguir el Chicago Manual of Style, 17.ª edición, estilo Autor-Fecha.
+- Se recomienda incluir una imagen, figura o visualización de red en el resumen cuando resulte pertinente.
+- Los resúmenes aceptados y las imágenes que los acompañen se publicarán en el sitio web de la conferencia HNR2027 antes del evento y se incluirán posteriormente en el Libro de Resúmenes de HNR2027.
+- Los autores son conscientes de que al menos un ponente debe estar presente en San Luis Potosí para presentar los trabajos aceptados.
+
+## Fechas importantes
+
+| Fecha | Hito |
+| :---- | :---- |
+| 11 de diciembre de 2026 | Fecha límite de envío |
+| 3 de febrero de 2027 | Notificación de aceptación/rechazo |
+| 3 de marzo de 2027 | Apertura de inscripciones |
+| **14–16 de julio de 2027** | **Conferencia — Campus Central de la UASLP, San Luis Potosí, México** |
+
+## Comité Organizador de HNR2027
+
+José Antonio Motilla Chávez (Organizador principal)  
+Instituto de Física y Facultad del Hábitat — UASLP
+
+Diego Leonardo Espitia Cabrejo  
+Instituto de Física y Facultad del Hábitat — UASLP
+
+Edgardo Ugalde Saldaña  
+Instituto de Física — UASLP
+
+Marcela Lomelí Jaso  
+Instituto de Física — UASLP
+
+Diego Pérez Martínez  
+Instituto de Física — UASLP
+
+Amaury de Jesús Pozos Guillén  
+Secretaría de Investigación y Posgrado — UASLP
+
+Edgardo Galán Vásquez  
+Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas — IIMAS-UNAM
+
+Yolanda Camacho Zapata  
+Archivo Histórico del Estado "Antonio Rocha" — AHESLP
+
+Héctor Manuel Gutiérrez Magaña  
+Centro de Investigaciones y Estudios Superiores en Antropología Social — CIESAS-Golfo
+
+Rodrigo Dorantes-Gilardi  
+Network Science Institute, Northeastern University
+
+</div>
+
+<style>
+.cfp-lang-switch { display:flex; gap:.5rem; margin-bottom:1.5rem; }
+.cfp-lang-btn {
+  cursor:pointer; padding:.35rem 1.1rem; border-radius:4px;
+  border:1px solid var(--accent-color, #eacb76); background:transparent;
+  color:inherit; font:inherit; font-size:.9rem; line-height:1;
+}
+.cfp-lang-btn.is-active {
+  background: var(--accent-color, #eacb76); color:#fff; font-weight:600;
+}
+.cfp-content { text-align: justify; hyphens: auto; }
+.cfp-content h1, .cfp-content h2, .cfp-content th { text-align: left; hyphens: none; }
+</style>
+
+<script>
+function switchCfpLang(lang, btn) {
+  var blocks = document.querySelectorAll('.cfp-content');
+  for (var i = 0; i < blocks.length; i++) {
+    blocks[i].style.display = (blocks[i].dataset.lang === lang) ? '' : 'none';
+  }
+  var buttons = btn.parentNode.querySelectorAll('.cfp-lang-btn');
+  for (var j = 0; j < buttons.length; j++) buttons[j].classList.remove('is-active');
+  btn.classList.add('is-active');
+}
+</script>
