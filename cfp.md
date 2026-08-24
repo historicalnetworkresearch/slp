@@ -108,7 +108,10 @@ Instituto de Física and Facultad del Hábitat — UASLP
 Edgardo Ugalde Saldaña  
 Instituto de Física — UASLP
 
-Marcela Lomelí Jaso  
+Urenda Queletzú Navarro Sánchez  
+General Counsel — Universidad Autónoma de San Luis Potosí
+
+María Marcela Lomelí Jasso  
 Instituto de Física — UASLP
 
 Diego Pérez Martínez  
@@ -128,6 +131,8 @@ Centro de Investigaciones y Estudios Superiores en Antropología Social — CIES
 
 Rodrigo Dorantes-Gilardi  
 Network Science Institute, Northeastern University
+
+<img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
 
@@ -227,7 +232,10 @@ Instituto de Física y Facultad del Hábitat — UASLP
 Edgardo Ugalde Saldaña  
 Instituto de Física — UASLP
 
-Marcela Lomelí Jaso  
+Urenda Queletzú Navarro Sánchez  
+Abogada General de la Universidad Autónoma de San Luis Potosí
+
+María Marcela Lomelí Jasso  
 Instituto de Física — UASLP
 
 Diego Pérez Martínez  
@@ -247,6 +255,8 @@ Centro de Investigaciones y Estudios Superiores en Antropología Social — CIES
 
 Rodrigo Dorantes-Gilardi  
 Network Science Institute, Northeastern University
+
+<img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
 
