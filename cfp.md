@@ -97,7 +97,7 @@ A short abstract of up to 200 words should explain the historical problem or mat
 | March 3rd, 2027 | Registration opening |
 | **July 14th–16th, 2027** | **Conference — UASLP Central Campus, San Luis Potosí, Mexico** |
 
-<img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
+<img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
 
@@ -186,7 +186,7 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 | 3 de marzo de 2027 | Apertura de inscripciones |
 | **14–16 de julio de 2027** | **Conferencia — Campus Central de la UASLP, San Luis Potosí, México** |
 
-<img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
+<img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
 
