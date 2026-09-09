@@ -97,41 +97,6 @@ A short abstract of up to 200 words should explain the historical problem or mat
 | March 3rd, 2027 | Registration opening |
 | **July 14th–16th, 2027** | **Conference — UASLP Central Campus, San Luis Potosí, Mexico** |
 
-## HNR2027 Organizing Committee
-
-José Antonio Motilla Chávez (Lead Organizer)  
-Instituto de Física and Facultad del Hábitat — UASLP
-
-Diego Leonardo Espitia Cabrejo  
-Instituto de Física and Facultad del Hábitat — UASLP
-
-Edgardo Ugalde Saldaña  
-Instituto de Física — UASLP
-
-Urenda Queletzú Navarro Sánchez  
-General Counsel — Universidad Autónoma de San Luis Potosí
-
-María Marcela Lomelí Jasso  
-Instituto de Física — UASLP
-
-Diego Pérez Martínez  
-Instituto de Física — UASLP
-
-Amaury de Jesús Pozos Guillén  
-Secretaría de Investigación y Posgrado — UASLP
-
-Edgardo Galán Vásquez  
-Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas — IIMAS-UNAM
-
-Yolanda Camacho Zapata  
-Archivo Histórico del Estado "Antonio Rocha" — AHESLP
-
-Héctor Manuel Gutiérrez Magaña  
-Centro de Investigaciones y Estudios Superiores en Antropología Social — CIESAS-Golfo
-
-Rodrigo Dorantes-Gilardi  
-Network Science Institute, Northeastern University
-
 <img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
@@ -220,41 +185,6 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 | 3 de febrero de 2027 | Notificación de aceptación/rechazo |
 | 3 de marzo de 2027 | Apertura de inscripciones |
 | **14–16 de julio de 2027** | **Conferencia — Campus Central de la UASLP, San Luis Potosí, México** |
-
-## Comité Organizador de HNR2027
-
-José Antonio Motilla Chávez (Organizador principal)  
-Instituto de Física y Facultad del Hábitat — UASLP
-
-Diego Leonardo Espitia Cabrejo  
-Instituto de Física y Facultad del Hábitat — UASLP
-
-Edgardo Ugalde Saldaña  
-Instituto de Física — UASLP
-
-Urenda Queletzú Navarro Sánchez  
-Abogada General de la Universidad Autónoma de San Luis Potosí
-
-María Marcela Lomelí Jasso  
-Instituto de Física — UASLP
-
-Diego Pérez Martínez  
-Instituto de Física — UASLP
-
-Amaury de Jesús Pozos Guillén  
-Secretaría de Investigación y Posgrado — UASLP
-
-Edgardo Galán Vásquez  
-Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas — IIMAS-UNAM
-
-Yolanda Camacho Zapata  
-Archivo Histórico del Estado "Antonio Rocha" — AHESLP
-
-Héctor Manuel Gutiérrez Magaña  
-Centro de Investigaciones y Estudios Superiores en Antropología Social — CIESAS-Golfo
-
-Rodrigo Dorantes-Gilardi  
-Network Science Institute, Northeastern University
 
 <img src="{{ '/img/img_slp.png' | relative_url }}" alt="San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
