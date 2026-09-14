@@ -20,7 +20,6 @@ The 12th International Historical Network Research Conference (HNR2027) will tak
 
 | Milestone | Date |
 |---|---|
-| Call for papers | August 17th, 2026 |
 | Deadline for submissions | December 11th, 2026 |
 | Notification of acceptance | February 3rd, 2027 |
 | Registration opening | March 3rd, 2027 |
