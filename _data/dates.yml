@@ -1,0 +1,48 @@
+# HNR2027 key dates — single source of truth.
+# ---------------------------------------------------------------------------------------
+# Rendered by index.md (home) and cfp.md (call for papers, English + Spanish).
+# Change a date here and every page updates. Never hardcode a date in a page.
+#
+# Fields per entry:
+#   id         internal key, never rendered
+#   emphasis   optional; true renders the row in bold
+#   en / es    per-language display strings
+#     date       the date as shown to readers
+#     milestone  the milestone label
+#     detail     optional; venue or clarification, rendered only on the CFP page
+
+milestones:
+  - id: submissions
+    en:
+      date: December 11th, 2026
+      milestone: Deadline for submissions
+    es:
+      date: 11 de diciembre de 2026
+      milestone: Fecha límite de envío
+
+  - id: notification
+    en:
+      date: February 3rd, 2027
+      milestone: Notification of acceptance/rejection
+    es:
+      date: 3 de febrero de 2027
+      milestone: Notificación de aceptación/rechazo
+
+  - id: registration
+    en:
+      date: March 3rd, 2027
+      milestone: Registration opening
+    es:
+      date: 3 de marzo de 2027
+      milestone: Apertura de inscripciones
+
+  - id: conference
+    emphasis: true
+    en:
+      date: July 14th–16th, 2027
+      milestone: Conference
+      detail: UASLP Central Campus, San Luis Potosí, Mexico
+    es:
+      date: 14–16 de julio de 2027
+      milestone: Conferencia
+      detail: Campus Central de la UASLP, San Luis Potosí, México

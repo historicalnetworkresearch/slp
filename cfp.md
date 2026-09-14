@@ -92,10 +92,8 @@ A short abstract of up to 200 words should explain the historical problem or mat
 
 | Date | Milestone |
 | :---- | :---- |
-| December 11th, 2026 | Deadline for submissions |
-| February 3rd, 2027 | Notification of acceptance/rejection |
-| March 3rd, 2027 | Registration opening |
-| **July 14th–16th, 2027** | **Conference — UASLP Central Campus, San Luis Potosí, Mexico** |
+{% for m in site.data.dates.milestones %}{% assign d = m.en %}{% capture label %}{{ d.milestone }}{% if d.detail %} — {{ d.detail }}{% endif %}{% endcapture %}{% if m.emphasis %}| **{{ d.date }}** | **{{ label }}** |{% else %}| {{ d.date }} | {{ label }} |{% endif %}
+{% endfor %}
 
 <img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
@@ -181,10 +179,8 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 
 | Fecha | Hito |
 | :---- | :---- |
-| 11 de diciembre de 2026 | Fecha límite de envío |
-| 3 de febrero de 2027 | Notificación de aceptación/rechazo |
-| 3 de marzo de 2027 | Apertura de inscripciones |
-| **14–16 de julio de 2027** | **Conferencia — Campus Central de la UASLP, San Luis Potosí, México** |
+{% for m in site.data.dates.milestones %}{% assign d = m.es %}{% capture label %}{{ d.milestone }}{% if d.detail %} — {{ d.detail }}{% endif %}{% endcapture %}{% if m.emphasis %}| **{{ d.date }}** | **{{ label }}** |{% else %}| {{ d.date }} | {{ label }} |{% endif %}
+{% endfor %}
 
 <img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
