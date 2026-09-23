@@ -81,7 +81,7 @@ A short abstract of up to 200 words should explain the historical problem or mat
 
 ## Submission Guidelines
 
-- Abstracts must be submitted via the conference management platform (link TBD).
+- Abstracts must be submitted via the conference management platform: [hnr2027.sciencesconf.org](https://hnr2027.sciencesconf.org/).
 - Abstracts must be written in **English**.
 - Citations must use the Chicago Manual of Style, 17th Edition, Author-Date style.
 - Including an image, figure, or network visualization in the abstract is encouraged where relevant.
@@ -168,7 +168,7 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 
 ## Normas de envío
 
-- Los resúmenes deben enviarse a través de la plataforma de gestión de la conferencia (enlace por confirmar).
+- Los resúmenes deben enviarse a través de la plataforma de gestión de la conferencia: [hnr2027.sciencesconf.org](https://hnr2027.sciencesconf.org/).
 - Los resúmenes deben redactarse en **inglés**.
 - Las citas deben seguir el Chicago Manual of Style, 17.ª edición, estilo Autor-Fecha.
 - Se recomienda incluir una imagen, figura o visualización de red en el resumen cuando resulte pertinente.
