@@ -95,6 +95,8 @@ A short abstract of up to 200 words should explain the historical problem or mat
 {% for m in site.data.dates.milestones %}{% assign d = m.en %}{% capture label %}{{ d.milestone }}{% if d.detail %} — {{ d.detail }}{% endif %}{% endcapture %}{% if m.emphasis %}| **{{ d.date }}** | **{{ label }}** |{% else %}| {{ d.date }} | {{ label }} |{% endif %}
 {% endfor %}
 
+<div class="cfp-submit"><a class="cfp-submit-btn" href="https://hnr2027.sciencesconf.org/"><svg class="cfp-submit-btn__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg><span>Submit your abstract</span></a></div>
+
 <img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
@@ -182,6 +184,8 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 {% for m in site.data.dates.milestones %}{% assign d = m.es %}{% capture label %}{{ d.milestone }}{% if d.detail %} — {{ d.detail }}{% endif %}{% endcapture %}{% if m.emphasis %}| **{{ d.date }}** | **{{ label }}** |{% else %}| {{ d.date }} | {{ label }} |{% endif %}
 {% endfor %}
 
+<div class="cfp-submit"><a class="cfp-submit-btn" href="https://hnr2027.sciencesconf.org/"><svg class="cfp-submit-btn__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg><span>Enviar resumen</span></a></div>
+
 <img src="{{ '/img/plaza_de_armas.jpg' | relative_url }}" alt="Plaza de Armas, San Luis Potosí" style="display:block; max-width:100%; height:auto; margin-top:2rem; border-radius:6px;">
 
 </div>
@@ -197,6 +201,28 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
   background: var(--accent-color, #eacb76); color:#fff; font-weight:600;
 }
 .cfp-content { text-align: justify; hyphens: auto; }
+
+/* Submission call to action */
+.cfp-submit { display:flex; justify-content:center; margin:2.5rem 0 .5rem; }
+.cfp-content a.cfp-submit-btn {
+  display:inline-flex; align-items:center; gap:.6rem;
+  padding:.85rem 1.9rem; border-radius:6px;
+  background:var(--accent-color, #eacb76); color:#1a1a1a;
+  font-weight:700; font-size:1.05rem; line-height:1.2;
+  text-decoration:none; border:1px solid rgba(0,0,0,.14);
+  transition:filter .15s ease, transform .15s ease;
+}
+.cfp-content a.cfp-submit-btn:hover,
+.cfp-content a.cfp-submit-btn:focus {
+  color:#1a1a1a; text-decoration:none;
+  filter:brightness(1.07); transform:translateY(-1px);
+}
+.cfp-content a.cfp-submit-btn:focus-visible { outline:2px solid #1a1a1a; outline-offset:3px; }
+.cfp-submit-btn__icon { width:1.15em; height:1.15em; flex:none; }
+@media (prefers-reduced-motion: reduce) {
+  .cfp-content a.cfp-submit-btn { transition:none; }
+  .cfp-content a.cfp-submit-btn:hover { transform:none; }
+}
 .cfp-content h1, .cfp-content h2, .cfp-content th { text-align: left; hyphens: none; }
 </style>
 
