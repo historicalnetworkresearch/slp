@@ -78,12 +78,33 @@
 
 // Speaker cards
 .speaker {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
   margin: 2rem 0;
   padding: 1.5rem;
   border: 1px solid rgba(0, 0, 0, .12);
   border-left: 4px solid var(--accent-color, #eacb76);
   border-radius: 6px;
   text-align: left;
+}
+
+.speaker__photo {
+  flex: none;
+  width: 150px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.speaker__body {
+  flex: 1;
+  min-width: 0;
+}
+
+// Stack the card on narrow screens so the portrait never squeezes the text.
+@media (max-width: 32em) {
+  .speaker { flex-direction: column; }
+  .speaker__photo { width: 120px; align-self: center; }
 }
 
 .speaker__name {
