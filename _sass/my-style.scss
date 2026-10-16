@@ -49,3 +49,63 @@
   background-color: #ec95b1;
   color: white;
 }
+
+// Bilingual page switch — shared by every page that ships English and Spanish
+// blocks. See _includes/lang-switch.html.
+.lang-switch {
+  display: flex;
+  gap: .5rem;
+  margin-bottom: 1.5rem;
+}
+
+.lang-btn {
+  cursor: pointer;
+  padding: .35rem 1.1rem;
+  border-radius: 4px;
+  border: 1px solid var(--accent-color, #eacb76);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: .9rem;
+  line-height: 1;
+}
+
+.lang-btn.is-active {
+  background: var(--accent-color, #eacb76);
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+// Speaker cards
+.speaker {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid rgba(0, 0, 0, .12);
+  border-left: 4px solid var(--accent-color, #eacb76);
+  border-radius: 6px;
+  text-align: left;
+}
+
+.speaker__name {
+  margin: 0;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+}
+
+.speaker__role {
+  margin: .4rem 0 0;
+  font-weight: 600;
+}
+
+.speaker__affiliation {
+  margin: .15rem 0 0;
+  opacity: .8;
+}
+
+.speaker__bio {
+  margin: 1rem 0 0;
+  text-align: justify;
+  hyphens: auto;
+}

@@ -1,0 +1,42 @@
+<!-- Bilingual page switch.
+     Include once per page that provides both an English and a Spanish block.
+     Each language block must carry: class="lang-content" data-lang="en|es".
+     The chosen language is remembered across pages via localStorage. -->
+<div class="lang-switch" role="group" aria-label="Language / Idioma">
+  <button type="button" class="lang-btn is-active" data-lang="en" onclick="switchLang('en')">English</button>
+  <button type="button" class="lang-btn" data-lang="es" onclick="switchLang('es')">Español</button>
+</div>
+
+<script>
+(function () {
+  var KEY = 'hnr2027-lang';
+
+  function apply(lang) {
+    var blocks = document.querySelectorAll('.lang-content');
+    for (var i = 0; i < blocks.length; i++) {
+      blocks[i].style.display = (blocks[i].dataset.lang === lang) ? '' : 'none';
+    }
+    var buttons = document.querySelectorAll('.lang-btn');
+    for (var j = 0; j < buttons.length; j++) {
+      buttons[j].classList.toggle('is-active', buttons[j].dataset.lang === lang);
+    }
+    document.documentElement.setAttribute('data-page-lang', lang);
+  }
+
+  function stored() {
+    try { return localStorage.getItem(KEY); } catch (e) { return null; }
+  }
+
+  window.switchLang = function (lang) {
+    apply(lang);
+    try { localStorage.setItem(KEY, lang); } catch (e) { /* private mode */ }
+  };
+
+  var initial = stored() === 'es' ? 'es' : 'en';
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function () { apply(initial); });
+  } else {
+    apply(initial);
+  }
+})();
+</script>

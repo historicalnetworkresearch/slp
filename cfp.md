@@ -7,12 +7,9 @@ hide_image: false
 cover: false
 ---
 
-<div class="cfp-lang-switch" role="group" aria-label="Language / Idioma">
-  <button type="button" class="cfp-lang-btn is-active" data-lang="en" onclick="switchCfpLang('en', this)">English</button>
-  <button type="button" class="cfp-lang-btn" data-lang="es" onclick="switchCfpLang('es', this)">Español</button>
-</div>
+{% include lang-switch.html %}
 
-<div class="cfp-content" data-lang="en" lang="en" markdown="1">
+<div class="cfp-content lang-content" data-lang="en" lang="en" markdown="1">
 
 # Call for papers
 
@@ -101,7 +98,7 @@ A short abstract of up to 200 words should explain the historical problem or mat
 
 </div>
 
-<div class="cfp-content" data-lang="es" lang="es" markdown="1" style="display:none">
+<div class="cfp-content lang-content" data-lang="es" lang="es" markdown="1" style="display:none">
 
 # Convocatoria de ponencias
 
@@ -191,15 +188,6 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 </div>
 
 <style>
-.cfp-lang-switch { display:flex; gap:.5rem; margin-bottom:1.5rem; }
-.cfp-lang-btn {
-  cursor:pointer; padding:.35rem 1.1rem; border-radius:4px;
-  border:1px solid var(--accent-color, #eacb76); background:transparent;
-  color:inherit; font:inherit; font-size:.9rem; line-height:1;
-}
-.cfp-lang-btn.is-active {
-  background: var(--accent-color, #eacb76); color:#fff; font-weight:600;
-}
 .cfp-content { text-align: justify; hyphens: auto; }
 
 /* Submission call to action */
@@ -226,14 +214,3 @@ Un breve resumen de hasta 200 palabras debe explicar el problema histórico o el
 .cfp-content h1, .cfp-content h2, .cfp-content th { text-align: left; hyphens: none; }
 </style>
 
-<script>
-function switchCfpLang(lang, btn) {
-  var blocks = document.querySelectorAll('.cfp-content');
-  for (var i = 0; i < blocks.length; i++) {
-    blocks[i].style.display = (blocks[i].dataset.lang === lang) ? '' : 'none';
-  }
-  var buttons = btn.parentNode.querySelectorAll('.cfp-lang-btn');
-  for (var j = 0; j < buttons.length; j++) buttons[j].classList.remove('is-active');
-  btn.classList.add('is-active');
-}
-</script>
