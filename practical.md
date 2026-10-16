@@ -7,20 +7,44 @@ hide_image: false
 cover: false
 ---
 
-# Practical informations
+{% include lang-switch.html %}
 
-* Table of contents
-{:toc}
+<div class="lang-content" data-lang="en" lang="en" markdown="1">
+
+# Practical information
 
 ## The conference
+
 ### Registration
 
-More informations soon.
+More information soon.
 
 ### Venue
 
-More informations soon. 
+More information soon.
 
 ### Online participation
 
-More informations soon.
+More information soon.
+
+</div>
+
+<div class="lang-content" data-lang="es" lang="es" markdown="1" style="display:none">
+
+# Información práctica
+
+## La conferencia
+
+### Inscripción
+
+Más información próximamente.
+
+### Sede
+
+Más información próximamente.
+
+### Participación en línea
+
+Más información próximamente.
+
+</div>

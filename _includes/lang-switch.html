@@ -21,6 +21,7 @@
       buttons[j].classList.toggle('is-active', buttons[j].dataset.lang === lang);
     }
     document.documentElement.setAttribute('data-page-lang', lang);
+    document.dispatchEvent(new CustomEvent('langchange', { detail: { lang: lang } }));
   }
 
   function stored() {
