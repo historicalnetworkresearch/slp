@@ -14,18 +14,18 @@
 milestones:
   - id: submissions
     en:
-      date: December 11th, 2026
+      date: December 21st, 2026
       milestone: Deadline for submissions
     es:
-      date: 11 de diciembre de 2026
+      date: 21 de diciembre de 2026
       milestone: Fecha límite de envío
 
   - id: notification
     en:
-      date: February 3rd, 2027
+      date: February 19th, 2027
       milestone: Notification of acceptance/rejection
     es:
-      date: 3 de febrero de 2027
+      date: 19 de febrero de 2027
       milestone: Notificación de aceptación/rechazo
 
   - id: registration
