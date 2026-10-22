@@ -42,6 +42,29 @@ Instituto de Física, Universidad Autónoma de San Luis Potosí
 **Héctor Gutiérrez Magaña**  
 CIESAS-GOLFO
 
+## Conference Faculty Advisors
+
+**Dr. Edgardo Ugalde Saldaña**  
+Director, Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Mtra. Rosa Ma. Reyes Moreno**  
+Director, Facultad del Hábitat, Universidad Autónoma de San Luis Potosí
+
+**Dr. Amaury De Jesús Pozos Guillén**  
+Secretary of Research and Graduate Studies, Universidad Autónoma de San Luis Potosí
+
+**Dr. Emilio Jorge González Galván**  
+Director, Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí
+
+**Dr. José Salomé Murguía Ibarra**  
+Director, Facultad de Ciencias, Universidad Autónoma de San Luis Potosí
+
+**Dra. Imelda Aguirre Mendoza**  
+Director, Centro INAH San Luis Potosí, Instituto Nacional de Antropología e Historia
+
+**Dra. Yolanda Esperanza Camacho Zapata**  
+General Director, Archivo Histórico del Estado de San Luis Potosí "Lic. Antonio Rocha"
+
 <img src="{{ '/img/cintillo_logos.png' | relative_url }}" alt="UASLP, FHAB and IF LEDS" style="width:100%; max-width:600px; height:auto; filter:brightness(0)">
 
 More information soon.
@@ -96,6 +119,29 @@ Instituto de Física, Universidad Autónoma de San Luis Potosí
 
 **Héctor Gutiérrez Magaña**  
 CIESAS-GOLFO
+
+## Asesores académicos de la conferencia
+
+**Dr. Edgardo Ugalde Saldaña**  
+Director, Instituto de Física, Universidad Autónoma de San Luis Potosí
+
+**Mtra. Rosa Ma. Reyes Moreno**  
+Directora, Facultad del Hábitat, Universidad Autónoma de San Luis Potosí
+
+**Dr. Amaury De Jesús Pozos Guillén**  
+Secretario, Secretaría de Investigación y Posgrado, Universidad Autónoma de San Luis Potosí
+
+**Dr. Emilio Jorge González Galván**  
+Director, Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí
+
+**Dr. José Salomé Murguía Ibarra**  
+Director, Facultad de Ciencias, Universidad Autónoma de San Luis Potosí
+
+**Dra. Imelda Aguirre Mendoza**  
+Directora, Centro INAH San Luis Potosí, Instituto Nacional de Antropología e Historia
+
+**Dra. Yolanda Esperanza Camacho Zapata**  
+Directora General, Archivo Histórico del Estado de San Luis Potosí "Lic. Antonio Rocha"
 
 <img src="{{ '/img/cintillo_logos.png' | relative_url }}" alt="UASLP, FHAB e IF LEDS" style="width:100%; max-width:600px; height:auto; filter:brightness(0)">
 
