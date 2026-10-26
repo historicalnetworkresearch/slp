@@ -112,15 +112,15 @@ Por primera vez, HNR llega a México. HNR2027 se celebrará en San Luis Potosí 
 
 La conferencia ofrece la oportunidad no solo de reunir a la comunidad internacional de HNR, sino también de fortalecer los vínculos entre investigadores de toda América Latina que abordan los problemas históricos de manera relacional, ya sea mediante el análisis formal de redes, la prosopografía, las bases de datos relacionales, los SIG históricos, la historia cuantitativa, la historia digital u otros métodos interesados en las relaciones entre personas, instituciones, lugares, textos, objetos e ideas.
 
-## Eje temático 2027: Emergencia
+## Eje temático 2027: Sistemas Emergentes
 
-La edición 2027 de la conferencia se centrará en la **Emergencia**: cómo las estructuras, los patrones y las formas de organización históricas surgen, se transforman, persisten y desaparecen a través de relaciones que operan a diferentes escalas.
+La edición 2027 de la conferencia se centrará en los **Sistemas Emergentes**: cómo las estructuras, los patrones y las formas de organización históricas surgen, se transforman, persisten y desaparecen a través de relaciones que operan a diferentes escalas.
 
-La emergencia es un concepto fundamental en la ciencia de la complejidad y de las redes, que se refiere a propiedades y patrones que surgen de las interacciones entre múltiples componentes y que no pueden comprenderse únicamente examinando dichos componentes de forma aislada. La investigación histórica se ha enfrentado desde hace tiempo a preguntas relacionadas: los mercados, las comunidades, las instituciones, las tradiciones intelectuales y los movimientos políticos se desarrollan a través de interacciones entre individuos, grupos, condiciones materiales, instituciones establecidas y estructuras de poder más amplias.
+Los sistemas emergentes son un concepto fundamental en la ciencia de la complejidad y de las redes, que se refiere a propiedades y patrones que surgen de las interacciones entre múltiples componentes y que no pueden comprenderse únicamente examinando dichos componentes de forma aislada. La investigación histórica se ha enfrentado desde hace tiempo a preguntas relacionadas: los mercados, las comunidades, las instituciones, las tradiciones intelectuales y los movimientos políticos se desarrollan a través de interacciones entre individuos, grupos, condiciones materiales, instituciones establecidas y estructuras de poder más amplias.
 
 Sin embargo, los procesos históricos no pueden reducirse simplemente a una emergencia de abajo hacia arriba. Las instituciones pueden imponerse deliberadamente, las jerarquías y las desigualdades restringen la interacción, las estructuras heredadas condicionan desarrollos posteriores y la contingencia puede reorientar los procesos históricos. Los enfoques de redes ofrecen formas de investigar estas tensiones: cómo las relaciones locales llegan a asociarse con estructuras más amplias, cómo esas estructuras restringen posteriormente la interacción y cómo los patrones relacionales persisten o cambian a lo largo del tiempo. La investigación histórica, a su vez, coloca en primer plano las cuestiones de temporalidad, agencia, incertidumbre, poder, contingencia y evidencia incompleta.
 
-Para HNR2027, **la emergencia es, por tanto, una pregunta que investigar y no una explicación que dar por supuesta**.
+Para HNR2027, **los sistemas emergentes son, por tanto, una pregunta que investigar y no una explicación que dar por supuesta**.
 
 Nos interesan especialmente las contribuciones que:
 
@@ -128,7 +128,7 @@ Nos interesan especialmente las contribuciones que:
 * examinen la interacción entre los procesos emergentes y las instituciones, la jerarquía, la coerción, la desigualdad o la autoridad política;
 * tiendan puentes entre la investigación de redes históricas y la ciencia de la complejidad, la ciencia de redes, el análisis de redes sociales u otros enfoques relacionales afines;
 * aborden evidencia histórica incompleta, fragmentaria, sesgada o incierta y sus implicaciones para la identificación de la estructura de red;
-* examinen las posibilidades y los límites explicativos de la emergencia en la investigación histórica;
+* examinen las posibilidades y los límites explicativos de los sistemas emergentes en la investigación histórica;
 * desarrollen enfoques de redes para corpus, regiones, poblaciones o tradiciones históricas subrepresentadas en la literatura internacional.
 
 HNR2027 alienta especialmente la participación de investigadores que trabajan en América Latina y de académicos que estudian procesos históricos latinoamericanos, sin dejar de estar plenamente abierta a contribuciones relativas a cualquier área geográfica, período histórico o tradición metodológica pertinente.
