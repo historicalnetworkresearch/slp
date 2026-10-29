@@ -64,6 +64,13 @@ La 12.ª Conferencia Internacional de Investigación de Redes Históricas (HNR20
   </div>
 </div>
 
+<!-- Event poster, one per language. The English version is pending. -->
+<div class="lang-content event-poster" data-lang="es" lang="es" style="display:none">
+  <a href="{{ '/img/cartel_hnr2027_es.jpg' | relative_url }}">
+    <img src="{{ '/img/cartel_hnr2027_es.jpg' | relative_url }}" alt="Cartel de la conferencia HNR2027, del 14 al 16 de julio de 2027 en San Luis Potosí" loading="lazy">
+  </a>
+</div>
+
 <style>
 .welcome-video__frame {
   position:relative; padding-bottom:56.25%; height:0; overflow:hidden;
@@ -72,6 +79,8 @@ La 12.ª Conferencia Internacional de Investigación de Redes Históricas (HNR20
 .welcome-video__frame iframe {
   position:absolute; top:0; left:0; width:100%; height:100%; border:0;
 }
+.event-poster { margin-top:2rem; text-align:center; }
+.event-poster img { max-width:100%; height:auto; border-radius:6px; }
 </style>
 
 <script>
